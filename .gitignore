@@ -1,0 +1,39 @@
+# SAS temporary files, logs, and generated outputs
+*.log
+*.lst
+*.sas7bdat
+*.sas7bndx
+*.sas7bcat
+*.sas7bitm
+*.sas7butl
+*.sas7bvew
+*.sas7bfdb
+*.sas7bpgm
+*.sas7bdat.lck
+*.sas7bcat.lck
+*.sas~
+
+# Local data directories (research inputs are not versioned)
+data/
+raw_data/
+input_data/
+output/
+outputs/
+temp/
+tmp/
+
+# SAS autosave and editor backup files
+*.bak
+*.old
+*~
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Note: Do not ignore *.xls or *.pdf globally.
+# The reviewed historical results spreadsheet and published article
+# are intentionally tracked under results/ and paper/.
