@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this historical code, please cite the published article below."
+type: software
+title: "Historical SAS code for: Regulação da saúde suplementar e estrutura etária dos beneficiários"
+authors:
+  - family-names: "Stivali"
+    given-names: "Matheus"
+    orcid: "https://orcid.org/0000-0002-7757-6433"
+repository-code: "https://github.com/stivali/2011_Regulacao_Saude_Sup"
+url: "https://github.com/stivali/2011_Regulacao_Saude_Sup"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Stivali"
+      given-names: "Matheus"
+      orcid: "https://orcid.org/0000-0002-7757-6433"
+  title: "Regulação da saúde suplementar e estrutura etária dos beneficiários"
+  journal: "Ciência & Saúde Coletiva"
+  volume: 16
+  issue: 9
+  start: 3729
+  end: 3739
+  year: 2011
+  doi: "10.1590/S1413-81232011001000010"
